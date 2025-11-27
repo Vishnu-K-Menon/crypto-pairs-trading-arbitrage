@@ -101,14 +101,16 @@ Supports both hourly and daily strategies
 
 📊 Performance Summary
 
-⭐ Hourly Johansen Strategy
+## ⭐ Hourly Johansen Strategy
 
-Pair	Result	Profit / Loss %
-BTC–ETH	Cointegrated	23.52%
-BTC–LTC	Cointegrated	7.46%
-ETH–LTC	Cointegrated	11.84%
-DOT–ADA	Cointegrated	24.48%
-XRP–XLM	Not cointegrated	N/A
+| Pair       | Status          | Profit / Loss |
+|------------|-----------------|---------------|
+| **BTC–ETH** | Cointegrated    | **23.52%**     |
+| **BTC–LTC** | Cointegrated    | **7.46%**      |
+| **ETH–LTC** | Cointegrated    | **11.84%**     |
+| **DOT–ADA** | Cointegrated    | **24.48%**     |
+| **XRP–XLM** | Not cointegrated | N/A           |
+
 
 
 📈 Outputs & Visuals
