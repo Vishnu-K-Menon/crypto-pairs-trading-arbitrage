@@ -100,7 +100,9 @@ Tracks equity curve, returns, and basic performance stats
 Supports both hourly and daily strategies
 
 📊 Performance Summary
+
 ⭐ Hourly Johansen Strategy
+
 Pair	Result	Profit / Loss %
 BTC–ETH	Cointegrated	23.52%
 BTC–LTC	Cointegrated	7.46%
